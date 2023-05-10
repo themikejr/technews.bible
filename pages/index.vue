@@ -30,6 +30,7 @@
     </ol>
 
     <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
+      <h3 class="text-black text-center m-0">Subscribe For Free</h3>
       <div class="mb-4">
         <label
           class="block text-gray-700 text-sm font-bold mb-2"
