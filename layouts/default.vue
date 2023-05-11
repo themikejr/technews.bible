@@ -25,7 +25,7 @@ useHead({
 
     <div class="p-4 flex justify-evenly gap-3">
       <a class="" href="/about">About</a>
-      <a href="/past-issues">Past Issues</a>
+      <a href="/issues">Past Issues</a>
       <a href="/posts">Posts</a>
     </div>
   </div>
