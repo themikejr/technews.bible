@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto px-4 prose prose-invert">
-    <h1 class="text-center">
-      A newsletter for technologists working on Bible translation
+    <h1 class="text-center font-black">
+      A newsletter for Bible translation technologists 
     </h1>
     <p class="font-thin text-center text-2xl">
       Discover. Learn. Share. Collaborate.
@@ -30,7 +30,7 @@
     </ol>
 
     <form class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
-      <h3 class="text-black text-center m-0">Subscribe For Free</h3>
+      <h3 class="text-black text-center m-0 font-black">Subscribe For Free</h3>
       <div class="mb-4">
         <label
           class="block text-gray-700 text-sm font-bold mb-2"

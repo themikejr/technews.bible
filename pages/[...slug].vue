@@ -1,5 +1,5 @@
 <template>
-  <main class="container mx-auto prose prose-invert">
+  <main class="container mx-auto px-4 prose prose-invert">
     <article>
       <ContentDoc />
     </article>

@@ -1,5 +1,5 @@
 <template>
-  <article class="container mx-auto px-4 prose dark:prose-invert">
+  <article class="container mx-auto px-4 prose prose-invert">
     <h1>About</h1>
 
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
