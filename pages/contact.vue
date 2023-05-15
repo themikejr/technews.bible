@@ -18,12 +18,11 @@
   <div class="container mx-auto px-4 prose prose-invert">
     <h1>Contact Us!</h1>
     <p>
-      We are always seeking feedback or addition partners to collaborate. Please
-      include a return email address where you can be reached and let us know
-      what is on your mind!
+      We are always seeking feedback, content suggestions, and additional
+      collaboration partners. Please include a return email address where you
+      can be reached and let us know what is on your mind!
     </p>
     <form
-      id="contact"
       name="contact"
       method="POST"
       netlify
