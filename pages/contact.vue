@@ -27,7 +27,6 @@
       name="contact"
       method="POST"
       netlify
-      data-netlify="true"
       class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4"
     >
       <h3 class="text-black text-center m-0 font-black">Contact Us</h3>
