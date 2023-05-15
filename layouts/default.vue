@@ -1,7 +1,12 @@
 <script setup>
 useHead({
-  title: "My App",
-  meta: [{ name: "description", content: "My amazing site." }],
+  title: "TechNews.Bible",
+  meta: [
+    {
+      name: "description",
+      content: "A newsletter for Bible translation technologists.",
+    },
+  ],
   bodyAttrs: {
     // GRADIENT
     class: "bg-gradient-to-r from-slate-900 to-blue-900",
