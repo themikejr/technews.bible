@@ -57,11 +57,12 @@
       </div>
       <div class="flex items-center justify-end">
         <input type="hidden" value="1" name="embed" />
-        <input
+        <button
           class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
           type="submit"
-          value="Submit"
-        />
+        >
+          Submit
+        </button>
       </div>
     </form>
   </div>
