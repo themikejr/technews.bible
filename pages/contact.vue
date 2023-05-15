@@ -27,6 +27,7 @@
       name="contact"
       method="POST"
       netlify
+      data-netlify="true"
       class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4"
     >
       <h3 class="text-black text-center m-0 font-black">Contact Us</h3>
@@ -52,6 +53,7 @@
           placeholder="Your message here..."
           class="shadow appearance-none border rounded w-full py-2 px-3 h-60 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
         />
+        <input type="hidden" name="form-name" value="contact" />
       </div>
       <div class="flex items-center justify-end">
         <input type="hidden" value="1" name="embed" />
