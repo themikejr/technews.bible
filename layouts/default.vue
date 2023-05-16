@@ -50,7 +50,6 @@ useHead({
         <a class="" href="/about">About</a>
         <a href="/issues">Past Issues</a>
         <a href="/posts">Posts</a>
-        <a href="/submissions">Submissions</a>
         <a href="/contact">Contact</a>
       </nav>
     </footer>
