@@ -27,7 +27,7 @@
       and <b>collaborate</b>.
     </p>
 
-    <p>
+    <p class="mb-8">
       This project is intentionally interdependent &mdash; it requires a
       community to share and contribute content. Content submissoins and other
       opportunities for collaboration are glady accepted at the
