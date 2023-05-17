@@ -25,9 +25,9 @@ useHead({
       </div>
 
       <nav class="p-4 flex justify-evenly gap-3">
-        <a class="" href="/about">About</a>
-        <a href="/issues">Past Issues</a>
-        <a href="/posts">Posts</a>
+        <NuxtLink to="/about">About</NuxtLink>
+        <NuxtLink to="/issues">Past Issues</NuxtLink>
+        <NuxtLink to="/posts">Posts</NuxtLink>
       </nav>
     </header>
 
@@ -47,10 +47,10 @@ useHead({
       </div>
 
       <nav class="p-4 flex flex-col bg-slate-900 text-right">
-        <a class="" href="/about">About</a>
-        <a href="/issues">Past Issues</a>
-        <a href="/posts">Posts</a>
-        <a href="/contact">Contact</a>
+        <NuxtLink to="/about">About</NuxtLink>
+        <NuxtLink to="/issues">Past Issues</NuxtLink>
+        <NuxtLink to="/posts">Posts</NuxtLink>
+        <NuxtLink to="/contact">Contact</NuxtLink>
       </nav>
     </footer>
   </div>

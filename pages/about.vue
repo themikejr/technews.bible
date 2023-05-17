@@ -31,7 +31,7 @@
       This project is intentionally interdependent &mdash; it requires a
       community to share and contribute content. Content submissoins and other
       opportunities for collaboration are glady accepted at the
-      <a href="/contact">contact</a> page.
+      <NuxtLink to="/contact">contact</NuxtLink> page.
     </p>
   </article>
 </template>

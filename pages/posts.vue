@@ -14,7 +14,7 @@ const filteredData = data.value.filter((post) => post.draft === false);
     </article>
 
     <article v-else v-for="post in filteredData">
-      <a :href="post._path">{{ post.title }}</a>
+      <NuxtLink :to="post._path">{{ post.title }}</NuxtLink>
       <p class="m-0">{{ post.description }}</p>
     </article>
   </main>
