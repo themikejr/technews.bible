@@ -1,3 +1,7 @@
+<script setup>
+useHead({ title: "TechNews.Bible | Home" });
+</script>
+
 <template>
   <div class="container mx-auto px-4 prose prose-invert">
     <h1 class="text-center font-black">

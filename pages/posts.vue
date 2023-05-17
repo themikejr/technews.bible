@@ -1,4 +1,6 @@
 <script setup>
+useHead({ title: "TechNews.Bible | Posts" });
+
 const { data } = await useAsyncData("issues", () =>
   queryContent("posts").find()
 );

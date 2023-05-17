@@ -1,3 +1,7 @@
+<script setup>
+useHead({ title: "TechNews.Bible | Subscription Confirmed" });
+</script>
+
 <template>
   <article class="container mx-auto prose prose-invert">
     <h1>Subscription confirmed.</h1>

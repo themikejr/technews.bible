@@ -1,20 +1,8 @@
-<template>
-  <!-- <form id="contact" name="contact" method="POST" data-netlify="true"> -->
-  <!--   <input id="contact-name" type="text" name="name" placeholder="Name" /> -->
-  <!--   <input -->
-  <!--     id="contact-email" -->
-  <!--     type="email" -->
-  <!--     name="email" -->
-  <!--     placeholder="Email Address" -->
-  <!--   /> -->
-  <!--   <textarea -->
-  <!--     id="contact-message" -->
-  <!--     name="message" -->
-  <!--     placeholder="Your Message" -->
-  <!--   ></textarea> -->
-  <!--   <button id="contact-submit" type="submit">Send</button> -->
-  <!-- </form> -->
+<script setup>
+useHead({ title: "TechNews.Bible | About" });
+</script>
 
+<template>
   <div class="container mx-auto px-4 prose prose-invert">
     <h1>Contact Us!</h1>
     <p>
