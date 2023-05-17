@@ -21,7 +21,7 @@ useHead({
   <div class="flex flex-col h-screen justify-between">
     <header class="h-5 flex justify-between prose prose-invert max-w-none">
       <div class="p-4 font-black text-xl">
-        <a class="no-underline" href="/">TechNews.Bible</a>
+        <NuxtLink class="no-underline" to="/">TechNews.Bible</NuxtLink>
       </div>
 
       <nav class="p-4 flex justify-evenly gap-3">
@@ -41,8 +41,8 @@ useHead({
       <div class="justify-start max-w-[280px]">
         <p>2023 © Mike Brinker <br />All Rights Reserved</p>
         <p>
-          <a href="/">TechNews.Bible</a> exists to curate and develop content
-          for technologists and innovators in Bible Translation.
+          <NuxtLink to="/">TechNews.Bible</NuxtLink> exists to curate and
+          develop content for technologists and innovators in Bible Translation.
         </p>
       </div>
 
