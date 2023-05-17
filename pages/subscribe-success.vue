@@ -2,7 +2,7 @@
   <article class="container mx-auto prose prose-invert">
     <h1>You're subscribed!</h1>
     <p>
-      Thanks for subscribing to TechNews.Bible. A confirmation email is on it's
+      Thanks for subscribing to TechNews.Bible. A confirmation email is on its
       way. <strong>You must confirm to begin recieving the newsletter</strong>.
     </p>
 
