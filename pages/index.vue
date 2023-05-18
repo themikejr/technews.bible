@@ -3,7 +3,7 @@ useHead({ title: "TechNews.Bible | Home" });
 </script>
 
 <template>
-  <div class="container mx-auto px-4 prose prose-invert">
+  <div class="container mx-auto px-6 prose prose-invert">
     <h1 class="text-center font-black">
       A newsletter for Bible translation technologists
     </h1>

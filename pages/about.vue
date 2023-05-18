@@ -3,7 +3,7 @@ useHead({ title: "TechNews.Bible | About" });
 </script>
 
 <template>
-  <article class="container mx-auto px-4 prose prose-invert">
+  <article class="container mx-auto px-6 prose prose-invert">
     <h1>About</h1>
 
     <p class="text-xl">

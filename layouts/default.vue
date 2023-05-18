@@ -20,13 +20,13 @@ useHead({
 <template>
   <div class="flex flex-col h-screen justify-between">
     <header class="h-5 flex justify-between prose prose-invert max-w-none">
-      <div class="p-4 font-black text-xl">
+      <div class="p-6 font-black text-xl">
         <NuxtLink class="no-underline" to="/">TechNews.Bible</NuxtLink>
       </div>
 
-      <nav class="p-4 flex justify-evenly gap-3">
+      <nav class="p-6 flex justify-evenly gap-3">
         <NuxtLink to="/about">About</NuxtLink>
-        <NuxtLink to="/issues">Past Issues</NuxtLink>
+        <NuxtLink to="/issues">Issues</NuxtLink>
         <NuxtLink to="/posts">Posts</NuxtLink>
       </nav>
     </header>
@@ -36,7 +36,7 @@ useHead({
     </div>
 
     <footer
-      class="prose prose-invert flex justify-between p-4 bg-slate-900 max-w-none"
+      class="prose prose-invert flex justify-between p-6 bg-slate-900 max-w-none"
     >
       <div class="justify-start max-w-[280px]">
         <p>2023 © Mike Brinker <br />All Rights Reserved</p>
@@ -48,9 +48,10 @@ useHead({
 
       <nav class="p-4 flex flex-col bg-slate-900 text-right">
         <NuxtLink to="/about">About</NuxtLink>
-        <NuxtLink to="/issues">Past Issues</NuxtLink>
+        <NuxtLink to="/issues">Issues</NuxtLink>
         <NuxtLink to="/posts">Posts</NuxtLink>
         <NuxtLink to="/contact">Contact</NuxtLink>
+        <NuxtLink to="/colophon">Colophon</NuxtLink>
       </nav>
     </footer>
   </div>

@@ -7,7 +7,7 @@ const { data } = await useAsyncData("issues", () =>
 </script>
 
 <template>
-  <main class="container mx-auto px-4 prose prose-invert">
+  <main class="container mx-auto px-6 prose prose-invert">
     <h1>Past Issues</h1>
     <article v-for="issue in data">
       <NuxtLink :to="issue._path">{{ issue.shortTitle }}</NuxtLink>
