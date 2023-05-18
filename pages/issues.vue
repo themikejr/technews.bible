@@ -8,10 +8,14 @@ const { data } = await useAsyncData("issues", () =>
 
 <template>
   <main class="container mx-auto px-6 prose prose-invert">
-    <h1>Past Issues</h1>
-    <article v-for="issue in data">
-      <NuxtLink :to="issue._path">{{ issue.shortTitle }}</NuxtLink>
-      <p class="m-0">{{ issue.description }}</p>
+    <h1>Issues</h1>
+    <article>
+      <p>We haven't published any issues yet.</p>
     </article>
+
+    <!-- <article v-for="issue in data"> -->
+    <!--   <NuxtLink :to="issue._path">{{ issue.shortTitle }}</NuxtLink> -->
+    <!--   <p class="m-0">{{ issue.description }}</p> -->
+    <!-- </article> -->
   </main>
 </template>

@@ -15,6 +15,12 @@ export default defineNuxtConfig({
     },
   },
 
+  content: {
+    markdown: {
+      anchorLinks: false,
+    },
+  },
+
   gtag: {
     id: "G-K5G86J0CJD",
   },
