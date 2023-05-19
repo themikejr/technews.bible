@@ -7,7 +7,7 @@ useHead({ title: "TechNews.Bible | Home" });
     <h1 class="text-center font-black">
       A newsletter for Bible translation technologists
     </h1>
-    <p class="font-thin text-center text-2xl">
+    <p class="font-thin text-white text-center text-2xl">
       Discover. Learn. Share. Collaborate.
     </p>
 
