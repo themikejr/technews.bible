@@ -35,6 +35,6 @@ useHead({ title: "TechNews.Bible | Home" });
 
     <JoinNewsletter />
 
-    <p>Have you created or encountered something that should be shared on the newsletter? <NuxtLink to="/contact">Contact us</NuxtLink> to submit content ideas.</p>
+    <p class="px-6">Have you created or encountered something that should be shared on the newsletter? <NuxtLink to="/contact">Contact us</NuxtLink> to submit content ideas!</p>
   </div>
 </template>
