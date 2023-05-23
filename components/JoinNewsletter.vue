@@ -7,7 +7,8 @@
     method="post"
     target="popupwindow"
   >
-    <h3 class="text-black text-center m-0 font-black">Join the Newsletter!</h3>
+    <h3 class="text-black text-center m-0 font-black">Join the Newsletter</h3>
+    <p class="text-black text-center">Receive our freshest content by email</p>
     <div class="mb-4">
       <label class="block text-gray-700 text-sm font-bold mb-2" for="email">
         Email Address

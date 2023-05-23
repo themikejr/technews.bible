@@ -11,7 +11,7 @@ useHead({ title: "TechNews.Bible | Home" });
       Discover. Learn. Share. Collaborate.
     </p>
 
-    <p>
+    <p class="text-lg">
       TechNews.Bible exists to curate and develop content for technologists in
       the Bible translation community. We believe that sharing knowledge will
       help us learn faster and collaborate better. Examples of the content we
@@ -34,5 +34,7 @@ useHead({ title: "TechNews.Bible | Home" });
     </ol>
 
     <JoinNewsletter />
+
+    <p>Have you created or encountered something that should be shared on the newsletter? <NuxtLink to="/contact">Contact us</NuxtLink> to submit content ideas.</p>
   </div>
 </template>
