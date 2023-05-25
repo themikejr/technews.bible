@@ -1,5 +1,5 @@
 <script setup>
-useHead({ title: "TechNews.Bible | About" });
+useHead({ title: "TechNews.Bible | Contact" });
 </script>
 
 <template>
