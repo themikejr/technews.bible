@@ -33,7 +33,7 @@ useHead({ title: "TechNews.Bible | About" });
 
     <p class="mb-8">
       This project is intentionally interdependent &mdash; it requires a
-      community to share and contribute content. Content submissoins and other
+      community to share and contribute content. Content submissions and other
       opportunities for collaboration are gladly accepted at the
       <NuxtLink to="/contact">contact</NuxtLink> page.
     </p>
