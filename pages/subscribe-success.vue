@@ -7,7 +7,7 @@ useHead({ title: "TechNews.Bible | Subscription Success" });
     <h1>You're subscribed!</h1>
     <p>
       Thanks for subscribing to TechNews.Bible. A confirmation email is on its
-      way. <strong>You must confirm to begin recieving the newsletter</strong>.
+      way. <strong>You must confirm to begin receiving the newsletter</strong>.
     </p>
 
     <p>
