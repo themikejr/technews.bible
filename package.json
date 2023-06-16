@@ -16,5 +16,8 @@
     "nuxt": "^3.4.3",
     "nuxt-gtag": "^0.5.7",
     "rehype-external-links": "^2.1.0"
+  },
+  "dependencies": {
+    "@nuxtjs/robots": "^3.0.0"
   }
 }

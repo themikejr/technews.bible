@@ -4,7 +4,12 @@ export default defineNuxtConfig({
   generate: {
     fallback: true,
   },
-  modules: ["@nuxtjs/tailwindcss", "@nuxt/content", "nuxt-gtag"],
+  modules: [
+    "@nuxtjs/tailwindcss",
+    "@nuxt/content",
+    "nuxt-gtag",
+    "@nuxtjs/robots",
+  ],
 
   css: ["@/assets/css/styles.css"],
 
