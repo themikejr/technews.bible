@@ -11,6 +11,12 @@ export default defineNuxtConfig({
     "@nuxtjs/robots",
   ],
 
+  nitro: {
+    prerender: {
+      routes: ["/sitemap.xml"],
+    },
+  },
+
   css: ["@/assets/css/styles.css"],
 
   postcss: {
