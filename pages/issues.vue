@@ -2,7 +2,9 @@
 useHead({ title: "TechNews.Bible | Issues" });
 
 const { data } = await useAsyncData("issues", () =>
-  queryContent("issues").find()
+  queryContent("issues")
+    .where({ draft: { $ne: true } })
+    .find()
 );
 </script>
 
