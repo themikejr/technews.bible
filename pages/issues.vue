@@ -15,6 +15,7 @@ const { data } = await useAsyncData("issues", () =>
     <article v-for="issue in data">
       <NuxtLink :to="issue._path">{{ issue.shortTitle }}</NuxtLink>
       <p class="m-0">{{ issue.description }}</p>
+      <br />
     </article>
   </main>
 </template>
