@@ -33,6 +33,9 @@ This recent paper introduces a [large curated corpus of parallel data](https://g
 An Exercise in Artificial Intelligence and (Pseudo-) Bible Translation](https://www.sil.org/resources/publications/entry/96472)  
 An entertaining article that explores using Bing to translate, analyze and adapt an AI-generated parable. The content here serves as a helpful snapshot of the capabilities of Generative AI in 2023 _and_ a careful reminder of the dangers wrought by VCR ownership and maintenance. From the [Journal of Translation](https://www.sil.org/resources/publications/jot) by [Drew Maust](https://maust.uk/). [Direct link to article](https://www.sil.org/system/files/reapdata/50/72/96/50729651440561335303215520126930495633/siljot2023_1_08.pdf).
 
+[What are embeddings?](https://vickiboykis.com/what_are_embeddings/index.html)  
+Embeddings are a foundational data structure used for a variety of NLP and AI tasks. This excellent paper offers explanations for engineers and business-oriented folks alike. It's also abundant with helpful and interesting references. Start with sections 1 and 2 in the [PDF](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf) for a high-level overview. By [Vicki Boykis](https://vickiboykis.com/).
+
 ## ∴ Field + Community
 
 [Support.Bible is a forum for BT software support](https://support.bible)  
