@@ -3,7 +3,6 @@ title: "TechNews.Bible | June 2023 Newsletter"
 shortTitle: "Issue No. 2 (June 2023)"
 description: "A massive freely-licensed Bible data corpus, successful translation projects, and a parable about a peanut butter sandwich."
 date: "2023.06"
-draft: true
 ---
 
 <h1 class="mb-0">Issue No. 2</h1>
