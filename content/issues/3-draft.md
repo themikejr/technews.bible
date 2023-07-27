@@ -1,0 +1,54 @@
+---
+title: "TechNews.Bible | July 2023 Newsletter"
+shortTitle: "Issue No. 3 (July 2023)"
+description: "Dive in to explore fresh releases from this month -- freely-licensed content from Tyndale, a new model from Meta x Microsoft, a new project from the ETEN Innovation Lab, and more."
+date: "2023.07"
+draft: true
+---
+
+<h1 class="mb-0">Issue No. 3</h1>
+<div class="mt-0"><em>July 2023</em></div>
+
+Dive in to explore fresh releases from this month -- freely-licensed content from Tyndale, a new model from Meta x Microsoft, a new project from the ETEN Innovation Lab, and more.
+
+TechNews.Bible is intended to be a community resource that enables Bible Translation technologists to discover, learn, share, and collaborate with each other. Read about the backstory and intentions of the newsletter [here](https://technews.bible/about).
+
+## 🔦 Issue Spotlight :: The Bible Aquifer
+
+[The Bible Aquifer Overview](https://etenlab.notion.site/The-Bible-Aquifer-An-Overview-4053f57212814609a39d9bfdd8a90d15)  
+A new initiative from the [ETEN Innovation Lab](https://etenlab.notion.site/Welcome-to-the-ETEN-Innovation-Lab-Public-Dashboard-9108ab10278144518ce664a75b57a947), The Bible Aquifer encompasses a broad vision (content, data, apps, and more) for providing unrestricted access to Bible Translation resources for the Global church. The Bible Aquifer team has chosen to make some pages of their notion site public to better communicate the intentions of the initiative as it develops. For more information about the general aims of the Innovation Lab, see [Who is the ETEN Innovation Lab?](https://file.notion.so/f/s/43daa464-b7b6-4517-a89d-b8faf8de2753/Who_is_the_ETEN_Innovation_Lab.pdf?id=80fba125-7611-49db-9dc0-7f4ffeebcfae&table=block&spaceId=29eedacc-21b0-499b-8fb9-6dfbfce2ee7b&expirationTimestamp=1690560000000&signature=lLmgy3cNfW4P6Gfo2n2KkWNyWzKyA9PzvjAD9BPH_KU&downloadName=Who+is+the+ETEN+Innovation+Lab.pdf).
+
+## ∴ Apps + Tools
+
+[Magisterium AI](https://www.magisterium.com)  
+This LLM has been trained on hundreds documents of the Catholic church. The training is said to reduce hallucinations and provide the ability for output to cite external works. [The Pillar](https://www.pillarcatholic.com/p/theology-and-the-machine) provides a comparison of questions answered by both the machine and a human scholar.
+
+[SiliconScripture: AI-Powered Semantic Bible Search](https://siliconscripture.org/)  
+Using OpenAI's embeddings model, SiliconScripture provides semantic search for eight English translations. Search results are helpfully displayed in context with preceding following verses. From [a couple of guys who love the Bible and technology](https://siliconscripture.org/about).
+
+[Bible.ai](https://bible.ai/)  
+An AI Chatbot experience with a question-and-answer format, Bible.AI provides succinct answers to Bible-related questions. Answers are augmented with relevant Bible passages and links to other resources such as YouTube videos from _The Bible Project_. From [Everprise](https://everprise.org/).
+
+[Stratus: Missions Data Reimagined](https://globe.stratus.earth/)  
+A beautiful visualization of the [Stratus Index](), this interactive globe provides a ranking of spiritual and physical needs synthesized from an impressive array of data sources. From [Radical](https://radical.net/).
+
+## ∴ Data + Research
+
+[Data release! :: Tyndale Open Bible Dictionary](https://tyndaleopenresources.com/)  
+Tyndale has released the _Tyndale Open Bible Dictionary_ under a CC BY-SA license. The dictionary includes articles and maps. Scripture references are systematically tagged.
+
+[The Ancient Data Language Service](https://ancient-language-data-service.streamlit.app/)  
+This is an early-stage demonstration that provides language data for the Greek New Testament to a large language model answering questions relevant to the corpus. The demo contains a few sample questions and users can provide their OpenAI key to explore it further. From [Ryder Wishart](https://ryderwishart.com/) at [Clear Bible](https://clear.bible).
+
+[_The Greek Room_: USC Researchers use AI to help translate the Bible](https://ministrywatch.com/usc-researchers-use-ai-to-help-translate-bible-into-very-rare-languages/)  
+Also recently featured in [The Washington Post](https://www.washingtonpost.com/religion/2023/07/06/usc-researchers-use-ai-help-translate-bible-into-very-rare-languages/) and [Relevant Magazine](https://relevantmagazine.com/current/world/a-i-is-being-used-to-translate-the-bible-in-every-language-in-the-world/), [The Greek Room](https://ministrywatch.com/usc-researchers-use-ai-to-help-translate-bible-into-very-rare-languages/) is a project that aims to improve quality and efficiency of Bible Translation with a variety of NLP and AI related tools. The work is supported by Wycliffe Bible Translators USA.
+
+[How is ChatGPT's Behavior Changing Over Time?](https://arxiv.org/abs/2307.09009)  
+While anecdotal data has been abundant, this paper provides a quantitative evaluation of the capabilities of GPT-3.5 and GPT-4. See the tools in the [Github Repository](https://github.com/lchen001/LLMDrift) for running the benchmarks used in the paper. [Direct link to PDF](https://arxiv.org/pdf/2307.09009.pdf).
+
+[Meta and Microsoft Announce Llama 2](https://about.fb.com/news/2023/07/llama-2/)  
+The next generation of Llama large language models has arrived. Llama 2 models are free for research and commercial use. Developed with 40% more training data, these new models also provide _twice_ the context length as the previous generation. See [model details](https://ai.meta.com/llama/#inside-the-model) and [request access](https://ai.meta.com/resources/models-and-libraries/llama-downloads/) to download the models.
+
+---
+
+Thanks for reading! **TechNews.Bible** exists to curate and develop content for technologists and innovators in Bible Translation. The content of the newsletter is dependent on a vibrant community whose members share what they are doing and learning. Thank you for being a part of that community. If you have suggestions for content relevant to the newsletter, please [contact us](https://technews.bible/contact).
