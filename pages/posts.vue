@@ -12,7 +12,13 @@ const filteredData = data.value.filter((post) => post.draft === false);
   <main class="container mx-auto px-6 prose prose-invert">
     <h1>Posts</h1>
     <article v-if="!filteredData.length">
-      <p>There aren't any posts yet.</p>
+      <p>There aren't any posts yet. In future you might find:</p>
+
+      <ul>
+        <li>Announcements and opportunities for collaboration</li>
+        <li>Updates on the <strong>TechNews.Bible</strong> community</li>
+        <li>Original content</li>
+      </ul>
     </article>
 
     <article v-else v-for="post in filteredData">
