@@ -4,6 +4,7 @@ useHead({ title: "TechNews.Bible | Issues" });
 const { data } = await useAsyncData("issues", () =>
   queryContent("issues")
     .where({ draft: { $ne: true } })
+    .sort({ date: -1 })
     .find()
 );
 </script>
