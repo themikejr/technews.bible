@@ -52,4 +52,4 @@ This is the second edition of a "Sync" meeting hosted by the Open Components Eco
 
 ---
 
-Thanks for reading! **TechNews.Bible** exists to curate and develop content for technologists and innovators in Bible Translation. The content of the newsletter is dependent on a vibrant community whose members share what they are doing and learning. Thank you for being a part of that community. If you have suggestions for content relevant to the newsletter, please [contact us](https://technews.bible/contact).
+Thanks for reading! **TechNews.Bible** is a community resource that depends on _you_ (the Bible Translation community) for content and knowledge sharing. If you are interested in sharing information about a project of yours or have content ideas **please [contact us](https://technews.bible/contact).**
