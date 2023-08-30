@@ -1,8 +1,8 @@
 ---
 title: "TechNews.Bible | August 2023 Newsletter"
-shortTitle: "Issue No. 4 (July 2023)"
-description: "."
-date: "2023.07"
+shortTitle: "Issue No. 4 (August 2023)"
+description: "August 2023 did not disappoint! Grab a cup of coffee, sit back, and dig in to find some exciting news, resources for learning, and more on AI research + development."
+date: "2023.08"
 draft: true
 ---
 
