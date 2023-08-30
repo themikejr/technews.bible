@@ -39,7 +39,14 @@ Lorem ipsum...
 [The Biblical Languages Podcast begins a series on Translation](https://www.youtube.com/playlist?list=PL4qBmdGMhDaFdzk1iA8jcBIdV98Dy08NG)  
 This is an excellent way for technologists to increase their domain knowledge. This podcast series looks at New Testament Bible Translation from a linguistic perspective. Understanding the theory and skill of translation enables us to better connect with the communities we serve. The first episode, [_Exploring Translation Theories_](https://www.youtube.com/watch?v=Aqwx9sF2UfQ), is a great place to start. Also, check out [The Second Testament with Scot McKnight](https://www.youtube.com/watch?v=arUIkrzyOlU). From [Biblingo](https://biblingo.org/).
 
+[How to Do Great Work](http://www.paulgraham.com/greatwork.html)  
+This aphoristic article explores what it means to do great work, with a substantial portion dedicated to the issue of choosing questions and problems to explore. It's likely relevant for the technologists and innovators reading this newsletter as we reflect on our last 12 months of work and begin considering the next 12. Editor's note: Not everything in this article is to be praised but I've found it to be a goldmine for thinking about how to explore new ideas, how to approach projects (or the possibility thereof), and what _not_ to worry about when it comes to work. From [Paul Graham](http://paulgraham.com/articles.html).
+
 ## ∴ Upcoming Events
 
 September 5 :: [Open Components Ecosystem Sync](https://opencomponents.us21.list-manage.com/track/click?u=f13d073327d644728dfdd76ff&id=2045b495f9&e=fde8ca0796)  
 This is the second edition of a "Sync" meeting hosted by the Open Components Ecosystem. Presenters will share updates about their open-source work related to Bible Translation and insights they've had along the way. The meeting takes place virtually, attendance is free. Learn more about the [Open Components Ecosystem](https://opencomponents.io).
+
+---
+
+Thanks for reading! **TechNews.Bible** exists to curate and develop content for technologists and innovators in Bible Translation. The content of the newsletter is dependent on a vibrant community whose members share what they are doing and learning. Thank you for being a part of that community. If you have suggestions for content relevant to the newsletter, please [contact us](https://technews.bible/contact).
