@@ -37,7 +37,7 @@ For the rest of us, a targeted learning plan might include *following significan
 - **Understand the big picture**. For example, you might read a book that covers the broad movements of Artifical Intelligence. Lately, I've found [Artificial Intelligence: A Guide for Thinking Humans]() to be very helpful. It includes both history and technical explanation of the field.
 - **Develop your technical understanding**. Spend some time understand how an LLM works.
 
-## 2 :: Learn about Hebrew or Greek
+## 2 :: Learn some Hebrew or Greek
 
 asdf...
 
@@ -49,7 +49,7 @@ asdf...
 
 asdf...
 
-## 5 :: Build a system for managing tasks
+## 5 :: Build something!
 
 asdf...
 
