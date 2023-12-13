@@ -1,14 +1,28 @@
 ---
-title: "Ideas for Growth in 2024"
-description: "This is a test post"
+title: "Managing Your Knowledge Portfolio in 2024"
+description: "Strategies and tactics for investing in knowledge and understanding."
 draft: false
 ---
 
-# 5 Ways to Grow in 2024
-2023 has been a year of where new technologies have amazed us and new collaborative partnerships among technologists have been born. 
-As a result, there are more opportunities than ever for for innovators and technologists to assist with the task of Bible Translation. 
-As we approach 2024, you might consider created a structured plan for continuous learning.
-Below are some ideas for how to grow as a technologist and innovator in 2024.
+# Managing Your Knowledge Portfolio in 2024
+
+*WORK-IN-PROGRESS DRAFT*
+
+In the technology industry, 2023 has been a year of wonder. Technologies that surpass our expectations and spark our imaginations made their way into the marketplace at a blistering pace. In the Bible Translation domain we have seen potential applications of these technologies. We have also been collaborating with each other in new, innovative ways. With TechNews.Bible, I wanted to create a new conduit for knowledge sharing that would stoke the fires of innovation and creativity for Bible Translation technologists.
+
+As we look ahead to 2024, I wanted to share a perspective that has been very influential to me. In *The Pragmmatic Programmer*, the authors outline an approach to managingin one's knowledge. They build on the concept of a "knowledge portfolio" that each of us have:
+
+> Managing a knowledge portfolio is very similar to managing a financial portfolio:
+> 
+> 1. Serious investors invest regularly—as a habit.
+> 2. Diversification is the key to long-term success.
+> 3. Smart investors balance their portfolios between conservative and high-risk, high-reward investments. 
+> 4. Investors try to buy low and sell high for maximum return.
+> 5. Portfolios should be reviewed and rebalanced periodically.
+
+While it's easy for some (like me) to overthink this helpful metaphor and worry about too much about my knowledge investments, the general idea is a helpful one. As a technologist or innovator working in the Bible Translation domain, we have a certain *responsibility* to invest and in the wise development of our knowledge and understanding.
+
+Since the end of the year and the beginning of the next is time we are often drawn to reflect on our goals, habits, and intentions, below are some ideas for developing your knowledge portfolion in 2024 (and beyond). As you'll see, the ideas that I share come from my personal experience -- these are not things that happen to sound good and so I wrote them down. I'm sure though that I don't cover every wise idea for learning! If you have an idea borne from experience that you would like to share, I would serioulsly love it if you [contacted me]() and told me about it. Now, onto the good stuff!
 
 <figure>
   <img
@@ -21,25 +35,33 @@ Below are some ideas for how to grow as a technologist and innovator in 2024.
 </figure>
 
 
-## 1 :: Dig into AI + LLM technologies
 
-We're in a season where advancements in AI and LLM technologies are happening monthly!
-Specialists could easily spend their continuous learning budget on merely keeping up with all of the news, releases, and papers that come out.
-For the rest of us, a targeted learning plan might include *following significant developments in the field* and *grasping the fundamentals of these technologies*.
+## 1 :: Artificial Intelligence and Large Language Models
+
+Large Language Models are the front and center in technologists minds right now, and for good reason! LLMs and their applications are helping us to be productive and creative in ways that stretch beyond the imagination. AI in general and LLMs in particular are complex -- there is a lot to learn. While a specialists can (and probably should) spend much of their knowledge investment budget on tracking every development, the rest of us will need a targeted learning plan that makes sense. I have two primary investment categories for AI and LLMs: *keeping up* and *grasping the fundamentals*.
 
 ### Keeping up significant developments
 
-- **Try using an LLM in your daily work.** If you aren't already using an LLM alongside your daily work, carve out some time to try using one of these technologies as you work. I've found that often the best way to understand the implications of a technology is to use it. Spend some time with ChatGPT, Anthropic Claude, or Google Bard and soon you will have much better grasp at the strenghts and weaknesses of these tools.
-- **Strategically follow what's happening.** Twitter can be a huge drain on your time and attention, but it's also where folks are sharing results of their work *LIVE*. Curate a twitter account or list that focuses on interesting AI-related voices and then dedicate 30 minutes a week to check in. Alternatively, there are many helpful newsletters that summarize recent developments on various timescales.
+- **Try using an LLM in your daily work.** If you aren't already using an LLM alongside your daily work, carve out some time to try using one of these technologies as you work. You don't have to adopt it wholesale, but I've often found the best way to understand the implications of a technology is to use it. Dedicate some time to applying an LLM to your daily workk.  You could start with ChatGPT, Anthropic Claude, or Google Bard. Programmers might try [Github Copilot]() or [Cursor.sh]() if they haven't already. Regular use of these tools will yield a much better grasp of ther strenghts and weaknesses.
+- **Strategically follow what's happening.** Twitter can be a massive drain on your time and attention, but it's also where folks are sharing results of their work and experimentation with these emerging technologies *as they unfold*. Instead of scrolling for longer than you would like to admit each day, curate a strategically beneficial group of voices to follow on Twitter related to these technologies. Then, schedule 30 minutes per-week to check in and see what's going on. Alternatively, there are many helpful newsletters that summarize recent developments on various timescales.
 
 ### Grasping fundamentals
 
-- **Understand the big picture**. For example, you might read a book that covers the broad movements of Artifical Intelligence. Lately, I've found [Artificial Intelligence: A Guide for Thinking Humans]() to be very helpful. It includes both history and technical explanation of the field.
-- **Develop your technical understanding**. Spend some time understand how an LLM works.
+- **Understand the big picture**. One problem I ran into when deciding to invest in AI and LLM knowledge this year was a lack of context. Since I hadn't been following AI closely for the last decade, the emergence of these new tools was surprising and I couldn't trace their historical or technological development. A case like this is where a book can be very helpful for one's knowledge gap. Online posts and articles pale in comparison to books that come from years of experience and focused development. For me,  [Artificial Intelligence: A Guide for Thinking Humans]() continues to be very helpful. The book opens with a first hand account of a meeting between Douglas Hofstadter and AI experts at Google. It masterfully weaves together history and technical explanation.
+- **Develop your technical understanding**. Arthur C. Clarke famously said "Any sufficiently advanced technology is indistinguishable from magic". The curious technologist in me often needs to have a basic understanding of how a piece of technology works before I can understand and (maybe) trust it. So, like anything else, understanding how it works worth the investment. [Stephen Wolfram's article](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) is one of the best places to start. Audio-visual learners might enjoy [Andrej Carpathy's talk](https://www.youtube.com/watch?v=zjkBMFhNj_g). This [3D Visualization and Walkthough](https://bbycroft.net/llm) is good for clarifying your understanding once you've been exposed to the basics.
 
 ## 2 :: Learn some Hebrew or Greek
 
-asdf...
+I admit that I was drawn to our domain becuase of my latent interest in the Bible and the original langugaes it was written in, so I may have an advantage of interest here that others don't. What I know though is that when I joined the domain as a software developer, I was intimitated being surrounded by people who know Hebrew and Greek and often have PhDs in related fields. Moreover, to make a contribution, I needed to be conversant in concepts such as syntax and morphology. These issues pale in comparison to being able to relate to translation teams. I had never needed to translate the Bible, so I was largely ignorant about the difficulties of such tasks and how software tools might help. Getting human feedback in our domain can sometimes be a challenge, so any way we can better related to our users is highly valuable.
+
+When I set out to begin learning Greek, I admittedly had personal interests in mind. What I found though is that learning the grammar of another language and attempting to translate it gave me a new, rich set of experiences through which I could relate to users of our products. I know heartly recommend learning one of the orignal languages to people who desire to make longstanding contributions to our domain. If you aren't ready to take a class, below are some lower levels of knowledge investment that can pay off. I believe that even doing the first one or two of these will bring a return on investment.
+
+* **Learn the alphabet**. Merely learning the how the letters look and sound moves you from somone who used to see an unintellible string of characters to someone who can recognize letters and words in user interfaces that might involve the original languages. As a programmer, this enabled me to check my work without relying on a Greek or Hebrew expert. I used Duolingo to learn the Greek alphabet.
+* **Learn some words**. After you know the alphabet, you can begin memorizing some source/target word pairings. This will enable you to begin to understand simple phrases and sentences. Very soon you will beginning seeing simple examples of what makes translation a very interesting craft. I used [this Greek vocab pack](https://www.biblicalmastery.academy/vocabpack/) to get started.
+* **Try to read**. Once you know some words, you may want to begin reading in the language. Try to learn the vocab that will get you through a very simple chapter like 1 John 1, then attempt to read and translate it. When I did this, I was first astonished that I could make anything out, but I quickly realized how little I understood the mechanics of the language. 
+* **Learn a bit about how the language works**. At this point, you're going to need to begin understanding the grammar and syntax of the language to make progress. I began exploring grammar's by [Merkle + Plummer](https://a.co/d/aYXwNQQ) and [Black](https://a.co/d/41K7VQd).
+* **Take a class!** If you've gotten this far and want to keep going, it's probably best to learn in community from someone who knows what they are talking about. Next year I'm very excited to be (virtually) attending [SeamusU](https://thepatrologist.com/shop/) to continue my greek journey. 
+
 
 ## 3 :: Learn about Translation
 
