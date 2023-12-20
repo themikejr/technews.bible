@@ -1,7 +1,7 @@
 ---
 title: "Managing Your Knowledge Portfolio in 2024"
 description: "Strategies and tactics for investing in knowledge and understanding."
-draft: false
+draft: true
 ---
 
 # Managing Your Knowledge Portfolio in 2024
