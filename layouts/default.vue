@@ -35,11 +35,9 @@ useHead({
       <slot />
     </div>
 
-    <footer
-      class="prose prose-invert flex justify-between p-6 bg-slate-900 max-w-none"
-    >
+    <footer class="prose prose-invert flex justify-between p-6 bg-slate-900 max-w-none">
       <div class="justify-start max-w-[280px]">
-        <p>2023 © Mike Brinker <br />All Rights Reserved</p>
+        <p>2024 © Mike Brinker <br />All Rights Reserved</p>
         <p>
           <NuxtLink to="/">TechNews.Bible</NuxtLink> exists to curate and
           develop content for technologists and innovators in Bible Translation.
