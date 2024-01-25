@@ -1,7 +1,7 @@
 ---
 title: "Your Knowledge: An Introduction"
 description: "Treat your knowledge as a portfolio. Invest wisely."
-draft: false
+draft: true
 ---
 # Your Knowledge: An Introduction
 
