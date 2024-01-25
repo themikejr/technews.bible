@@ -28,17 +28,16 @@ While [some may see us moving away from a knowledge economy soon](https://every.
 
 In the information science literature, there is a model which has endured. No one seems sure where it came from, but everyone has their take on it. The Data, Information, Knowledge, Wisdom (DIKW) Hierarchy imagines the its elements as layers that build upon one another, each being of a higher order than the next. Data are phenomena in the world -- stimuli, signs, signals, symbols, and instances of fact. Information is data "endowed with meaning and purpose." Information brings narrative, structure, and intention to data. Knowledge is the embodiment of information, with layers of contextual lived experience. And wisdom? Wisdom is knowledge employed by mastery, infused with the pursuit of *why*.
 
-<figure>
+<figure class="flex flex-col items-center">
   <img
-    class="rounded-sm drop-shadow-2xl object-scale-down h-20 w-20"
+    class="drop-shadow-2xl"
     src="/img/DIKW_Pyramid.svg"
     alt="The Data, Information, Knowledge, Wisdom Hierarchy."
   />
   <figcaption>
-    Image from wikipedia.
+    Image from <a href="https://en.wikipedia.org/wiki/DIKW_pyramid">Wikipedia</a>.
   </figcaption>
 </figure>
-
 
 Our knowledge gives shape to the contributions we make to our field and community. So why not approach the management and development of it with intention? I once encountered an expression of such intention that had a formative influence on me. In *[The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)*, the authors outline an approach to managing one's knowledge. They think of knowledge in terms of investment. They build on the concept of a **knowledge portfolio**:
 
