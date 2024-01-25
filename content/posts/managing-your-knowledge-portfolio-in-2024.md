@@ -11,7 +11,7 @@ In the technology industry, 2023 was a year of wonder. Technologies that surpass
 
 <figure>
   <img
-    class="rounded-sm drop-shadow-2xl object-scale-down h-20 w-20"
+    class="rounded-lg drop-shadow-2xl object-scale-down h-20 w-20"
     src="/img/5-ways-to-grow-in-2024.webp"
     alt=""
   />
