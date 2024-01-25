@@ -5,6 +5,8 @@ draft: false
 ---
 # Managing Your Knowledge Portfolio in 2024 (and Beyond!)
 
+*Treat your knowledge as a portfolio. Invest wisely.*
+
 With TechNews.Bible, I wanted to create a new conduit for knowledge sharing that would stoke the fires of innovation and creativity for Bible Translation technologists. As I reflect on this project's first year, I'm thankful for the interest shown by the community. In 2024, I am more convinced than ever of the importance of this mission.
 
 In the technology industry, 2023 was a year of wonder. Technologies that surpass our expectations and spark our imaginations made their way into the marketplace at a blistering pace. The Bible Translation domain is seeing real applications of these technologies. We have also been collaborating in new, innovative ways. 
